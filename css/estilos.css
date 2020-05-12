@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://cdn.shopify.com/s/files/1/2930/2308/products/old-master-green-gradient-lighter-center-dark-on-edges-backdrop_1024x1024.jpg?v=1535706188');
+    
+    font-family: palatino linotype;
+    
+  }
+  
+  .menu {
+    
+    background-collor: none; 
+  } 
+  
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline; 
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+  
+  
+  
+  .menu li {
+    list-style: none;
+  } 
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center; 
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    
+  }
